@@ -1,0 +1,19 @@
+.left-column{
+    display: flex;
+}
+
+.company-title{
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.center-column{
+    display: flex;
+    justify-content: center;
+}
+.addressing-wrapper{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 16vh;
+}
